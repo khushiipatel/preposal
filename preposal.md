@@ -1,13 +1,12 @@
 # Preproposal
 
 ## What idea(s) do you have for your final project?
-
-TODO
+A compilation of trivial decision making games. Different storylines to choose from, and point systems.
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-TODO
+Conrad French and Zainab Malik 
 
 ## Do you have any questions of your own?
 
-TODO
+How long should the game be. 
